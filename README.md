@@ -1,5 +1,4 @@
 # Habibi
-<!DOCTYPE html>
 <html>
 <head>
  <title>Habibi</title>
@@ -7,14 +6,14 @@
 </head>
 <body>
  <div id="header">
-  <ol>
+  <ul>
    <li>Home</li>
    <li>Specials</li>
    <li>Menu</li>
    <li>Sweets</li>
    <li>Habibi</li>
    <li>Party</li>
-  </ol>
+  </ul>
  </div>
 </body>
 </html>
