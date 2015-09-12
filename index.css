@@ -1,0 +1,30 @@
+body {
+  background-color:#333333
+}
+#header {
+  background-color:#030303
+}
+li, h3, p {
+  color:#999999
+}
+a {
+  text-decoration:none;
+}
+a:link {
+  color:#999999
+}
+a:visited {
+  color:#f97900
+}
+a:hover {
+  color:#f90000
+}
+a:active {
+  color:#f90000
+}
+ul {
+  margin: 10px 10px 10px 0px;
+}
+li {
+  font-size:30;
+}
